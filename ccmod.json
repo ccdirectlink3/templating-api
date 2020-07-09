@@ -1,0 +1,7 @@
+{
+	"id": "templating-api",
+	"description": "Get your JSON templating additions here",
+	"homepage": "https://github.com/CCDirectLink/templating-api",
+	"version": "0.2.0",
+	"prestart": "prestart.js"
+}
